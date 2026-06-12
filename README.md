@@ -1,4 +1,3 @@
-# PDF RAG Chatbot
 
 # PDF RAG Chatbot
 
